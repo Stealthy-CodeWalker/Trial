@@ -1,0 +1,29 @@
+#i1
+{
+    position: absolute;
+    width: 294px;
+    height: 150px;
+    left: 100px;
+    top: 0px;
+}
+#t1
+{
+    position: absolute;
+    width: 342px;
+    height: 869px;
+    left: 76px;
+    top: 176px;
+
+    background: #D9D9D9;
+    border: 1px solid #000000;
+    border-radius: 25px;
+}
+#i2
+{
+    position: absolute;
+    width: 164px;
+    height: 183px;
+    left: 165px;
+    top: 192px;
+    border-radius: 50%;
+}
